@@ -22,3 +22,6 @@
   <a href = joaobreno3786@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in//joão-breno-a9bbba2b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@cucudabreno655/30-nites-of-code)  
+  ![@cucudabreno655 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cucudabreno655)
