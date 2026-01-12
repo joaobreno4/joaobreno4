@@ -1,27 +1,60 @@
-## Bem-vindo(a) ao perfil do João Breno😁
+# 👋 João Breno | Estagiário | DevOps em formação
 
- <div>
-   <a href="https://github.com/joaobreno4">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobreno4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobreno4&layout=compact&langs_count=6&theme=tokyonight"/>
+Atualmente estagiando na **O2B (Deal Group)**, com foco em aprendizado prático
+em ambiente corporativo e estudos voltados para **DevOps**.
+
+Tenho base em programação e venho aprofundando conhecimentos em
+**infraestrutura, automação e containers**.
+
+---
+
+## 🛠️ Stack em estudo (DevOps)
+
+- Docker e containers
+- Kubernetes (Minikube)
+- Linux
+- Bash scripting
+- Git e GitHub
+- Fundamentos de CI/CD
+- Node.js (base para automação e APIs)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/joaobreno4">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaobreno4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobreno4&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+---
+
+## 📦 Projetos em destaque
+
+- 🔧 **DevOps Ready Check**  
+  Script Bash para validação de ambiente DevOps (Git, Docker, Kubernetes, exit codes).
+
+- 🧠 **Fundamentos de Lógica de Programação**  
+  Projeto em JavaScript focado em lógica, conectivos e base computacional.
+
+---
+
+## 🌐 Contato profissional
+
+<div>
+  <a href="https://www.linkedin.com/in/joão-breno-a9bbba2b8/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:joaobreno3786@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me siga nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/joaobrenosilva554/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/joaobrenodasilva" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = joaobreno3786@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in//joão-breno-a9bbba2b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@cucudabreno655/30-nites-of-code)  
-  ![@cucudabreno655 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cucudabreno655)
+
+---
+
+## 🚀 Em evolução contínua
+
+Busco consolidar conhecimentos em **DevOps**, infraestrutura e automação
+através de projetos práticos, estudo constante e experiência em ambiente real.
