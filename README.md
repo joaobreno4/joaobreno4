@@ -43,7 +43,7 @@ Tenho base em programação e venho aprofundando conhecimentos em
 ## 🌐 Contato profissional
 
 <div>
-  <a href="https://www.linkedin.com/in/joaobreno4-silva/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaobreno4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
