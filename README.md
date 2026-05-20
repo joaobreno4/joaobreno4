@@ -16,11 +16,38 @@
 
   <h3>⚔️ Tech Arsenal & Equipment</h3>
   <br/>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,prometheus,grafana,linux,bash,git,githubactions,cs,java,py,js,nodejs,postgres,aws&perline=8&theme=dark" alt="My Skills" />
-    </a>
-  </p>
+
+  <table align="center">
+    <tr>
+      <td valign="top" width="33%">
+        <h4 align="center">☁️ DevOps & SRE</h4>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,aws,azure,gcp,prometheus,grafana&perline=3&theme=dark" alt="DevOps Skills" />
+          </a>
+          <br/>
+          <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="25" alt="Datadog"/>
+          <img src="https://img.shields.io/badge/Zabbix-F14E32?style=for-the-badge&logo=zabbix&logoColor=white" height="25" alt="Zabbix"/>
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h4 align="center">☕ Backend & Data</h4>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=cs,java,py,nodejs,postgres,spring,dotnet&perline=3&theme=dark" alt="Backend Skills" />
+          </a>
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h4 align="center">🛠️ Front & Tools</h4>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html,css,js,bash,git,githubactions,vscode,visualstudio&perline=3&theme=dark" alt="Tools Skills" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
