@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     # Roda automaticamente a cada 24 horas
-    - cron: "0 */24 * * `"
+    - cron: "0 */24 * * *"
   
   # Permite rodar manualmente a qualquer momento
   workflow_dispatch:
