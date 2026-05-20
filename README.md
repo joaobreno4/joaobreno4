@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=DevOps+Intern;Infrastructure+as+Code;Linux+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=DevOps+Intern;Infrastructure+as+Code;SRE+%26+Observability" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -9,7 +9,7 @@
   <p align="center">
     👋 Olá! Sou <strong>João Breno</strong>. <br/>
     Estagiário de DevOps em formação na <strong>O2B (Deal Group)</strong>.<br/>
-    Atualmente focado em aprendizado prático em ambiente corporativo e estudos voltados para infraestrutura, automação e containers.
+    Atualmente focado em aprendizado prático em ambiente corporativo e estudos voltados para infraestrutura, automação, containers e observabilidade.
   </p>
 
   <br/>
@@ -18,7 +18,7 @@
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,githubactions,cs,java,py,js,nodejs,postgres,html,css,vscode,visualstudio&perline=8&theme=dark" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,prometheus,grafana,linux,bash,git,githubactions,cs,java,py,js,nodejs,postgres,aws&perline=8&theme=dark" alt="My Skills" />
     </a>
   </p>
 
@@ -26,8 +26,9 @@
 
   <h3>🔧 Projetos em Destaque</h3>
   <p align="left">
-    • <strong>DevOps Ready Check:</strong> Script Bash para validação de ambiente DevOps (Git, Docker, Kubernetes, exit codes).<br/>
-    • <strong>Fundamentos de Lógica de Programação:</strong> Projeto em JavaScript focado em lógica, conectivos e base computacional.
+    • <strong>Automated Monitoring & Alerts (ShopNow):</strong> Implementação de dashboards de observabilidade e alertas de métricas utilizando Terraform e Datadog, focado no planejamento de resiliência para a Black Friday.<br/>
+    • <strong>AWS Infrastructure Automation:</strong> Projeto prático de automação de infraestrutura na nuvem AWS utilizando Terraform para provisionamento de recursos via IaC.<br/>
+    • <strong>Classificador de Nível de Herói:</strong> Desafio focado em lógica de programação e estruturas de decisão desenvolvido na plataforma DIO.me.
   </p>
 
   <br/>
