@@ -8,7 +8,7 @@
 
   <p align="center">
     👋 Olá! Sou <strong>João Breno</strong>. <br/>
-    <strong>Junior Site Reliability Engineer (SRE) / Assistente de Monitoração</strong> na <strong>O2B (Deal Group)</strong>.<br/>
+    <strong> Junior Site Reliability Engineer (SRE) / Assistente de Monitoração</strong> na <strong>O2B (Deal Group)</strong>.<br/>
     Atualmente focado em sustentação de ambientes críticos, observabilidade, gestão de incidentes e automação de infraestrutura.
   </p>
 
