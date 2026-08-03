@@ -1,15 +1,15 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=DevOps+Intern;Infrastructure+as+Code;SRE+%26+Observability" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Junior+Site+Reliability+Engineer;Infrastructure+as+Code;SRE+%26+Observability" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <p align="center">
     👋 Olá! Sou <strong>João Breno</strong>. <br/>
-    Estagiário de DevOps em formação na <strong>O2B (Deal Group)</strong>.<br/>
-    Atualmente focado em aprendizado prático em ambiente corporativo e estudos voltados para infraestrutura, automação, containers e observabilidade.
+    <strong>Junior Site Reliability Engineer (SRE) / Assistente de Monitoração</strong> na <strong>O2B (Deal Group)</strong>.<br/>
+    Atualmente focado em sustentação de ambientes críticos, observabilidade, gestão de incidentes e automação de infraestrutura.
   </p>
 
   <br/>
@@ -99,7 +99,7 @@
   <br/><br/>
   
   <p>
-    <strong>🚀 Em evolução contínua! Busco consolidar conhecimentos em DevOps, infraestrutura e automação através de projetos práticos e experiência em ambiente real.</strong>
+    <strong>🚀 Em evolução contínua! Focado em garantir resiliência, observabilidade e confiabilidade de sistemas como SRE.</strong>
   </p>
 
 </div>
@@ -119,5 +119,3 @@
     />
   </a>
 </p>
-
----
