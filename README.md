@@ -1,14 +1,14 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Junior+Site+Reliability+Engineer;Infrastructure+as+Code;SRE+%26+Observability" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Junior+Site+Reliability+Engineer;Infrastructure+as+Code;SRE+%26+Observability" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <p align="center">
     👋 Olá! Sou <strong>João Breno</strong>. <br/>
-    <strong> Junior Site Reliability Engineer (SRE) / Assistente de Monitoração</strong> na <strong>O2B (Deal Group)</strong>.<br/>
+    <strong>Junior Site Reliability Engineer (SRE) / Assistente de Monitoração</strong> na <strong>O2B (Deal Group)</strong>.<br/>
     Atualmente focado em sustentação de ambientes críticos, observabilidade, gestão de incidentes e automação de infraestrutura.
   </p>
 
